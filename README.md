@@ -1,5 +1,4 @@
 # LangChain-OpenAI-API
-Certainly! Here's a revised version of your README with added explanations, formatting, and enhanced structure to make it more user-friendly and informative.
 
 ---
 
